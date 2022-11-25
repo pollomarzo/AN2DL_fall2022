@@ -60,5 +60,3 @@ Since the sets were created by doing stratified sampling the test results reflec
 ## 4. Competition evaluation
 - First phase accuracy (30% test data): 93.25%
 - Second phase accuracy (70% test data): 93.13%
-
-Our team placed 2nd out of more than 500 entires.
