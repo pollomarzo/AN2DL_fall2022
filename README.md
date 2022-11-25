@@ -39,7 +39,7 @@ ConvNeXtLarge outperforms the others. Its bottom has 295 layers and when the cla
 
 ### 2.2. Classifier
 
-Using a dedicated validation set we tested various combinations of layers and reached the final result showed here.
+Using a dedicated validation set we tested various combinations of layers and reached the final result presented here.
 
 <p align="center">
 <img width="580px" src="/images/structure_with_input.PNG" alt="TF comparison">
