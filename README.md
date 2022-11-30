@@ -1,5 +1,5 @@
 # Plants images classification
-### Artificial Neural Networks and Deep Learning competition - Politecnico di Milano a.y. 2022/2023.
+### Artificial Neural Networks and Deep Learning - Politecnico di Milano a.y. 2022/2023.
 <p align="center">
 Paolo Marzolo - Mark Federico Zampedroni - Marco Zanoni
 </p>
